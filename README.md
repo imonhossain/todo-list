@@ -6,3 +6,5 @@ Simple to do list using redux as a starting point for our code pairing challenge
 * Redux
 * Tailwind
 
+    npm install
+    npm start
